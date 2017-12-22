@@ -1,2 +1,2 @@
 # dog-demo
-Assesment project for ADVOCO IT serivces.
+Assesment project for ADVOCO IT services.
